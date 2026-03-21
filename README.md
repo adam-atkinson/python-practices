@@ -1,4 +1,4 @@
-# Python Practice Projects 🐍
+# 🐍 Python Practice Projects
 
 This repository contains a collection of small Python programs created while learning and practicing the fundamentals of programming in Python.
 
@@ -6,7 +6,7 @@ The goal of this repository is to build a strong understanding of core programmi
 
 These scripts are written as learning exercises and serve as a personal reference library of beginner Python templates.
 
-## Purpose Of This Repository 📚
+## 📚 Purpose Of This Repository
 
 This repository exists to:
 
@@ -16,7 +16,7 @@ This repository exists to:
 - Document the learning journey from beginner to more advanced projects
 - Create small working programs that demonstrate fundamental programming logic
 
-## What You Will Find Here 🧐
+## 🧐 What You Will Find Here
 
 Each Python file in this repository is a small standalone program. Examples include:
 
@@ -29,12 +29,12 @@ Each Python file in this repository is a small standalone program. Examples incl
 
 Every project is intentionally kept small and focused so that the logic can be easily understood and revisited later.
 
-## Requirements 📋
+## 📋 Requirements
 
 - Python 3.6 or higher
 - No external packages required (uses only standard library)
 
-## How to Run 🏃‍♂️
+## 🏃‍♂️ How to Run
 
 1. Ensure you have Python 3 installed on your system
 2. Clone or download this repository
@@ -48,7 +48,7 @@ cd hello-world
 python hello_world.py
 ```
 
-## Learning Approach 📈
+## 📈 Learning Approach
 
 These projects are written with a focus on:
 
@@ -61,11 +61,11 @@ These projects are written with a focus on:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Additional Notes 📌
+## 📌 Additional Notes
 
 This repository is part of an ongoing personal learning process. The programs are intentionally simple and designed to reinforce foundational programming concepts.
 
-## Contact 📬
+## 📬 Contact
 
 Feel free to reach out if you have questions, suggestions, or just want to connect!
 
