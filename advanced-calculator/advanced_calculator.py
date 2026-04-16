@@ -1,7 +1,11 @@
 print("Calculator")
 
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+try:
+    num1 = float(input("Enter the first number: "))
+    num2 = float(input("Enter the second number: "))
+except ValueError:
+    print("Invalid input - please enter numbers only")
+    exit()
 
 operation = input("Choose an operation (+, -, *, /): ")
 
@@ -12,7 +16,11 @@ elif operation == "-":
 elif operation == "*":
     result = num1 * num2
 elif operation == "/":
-    result = num1 / num2
+    if num2 == 0:
+        print("Error: You cannot divide by zero")
+        result = None
+    else:
+        result = num1 / num2
 else:
     print("Invalid operation")
     result = None
