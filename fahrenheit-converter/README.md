@@ -22,13 +22,6 @@ Or with Python 3 explicitly:
 python3 fahrenheit_to_celsius.py
 ```
 
-Enter a number when prompted (e.g., 32 for freezing point).
-
-## 🛠️ File contents
-
-- `fahrenheit_to_celsius.py` - the temperature conversion script.
-- `README.md` - this documentation.
-
 ## 💡 Learning Concepts
 
 ### 1. Mathematical formulas in code
@@ -60,7 +53,3 @@ Enter a number when prompted (e.g., 32 for freezing point).
 
 - Understanding Fahrenheit and Celsius scales.
 - The freezing point of water (32°F = 0°C).
-
-## 📚 Notes
-
-This repository is part of basic Python practice projects. It introduces mathematical operations, user input, and formatted output in a practical context.

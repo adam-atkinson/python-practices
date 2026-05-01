@@ -25,11 +25,6 @@ python3 simple_to_do_list.py
 
 Use the menu options (1-4) to interact with your to-do list.
 
-## 🛠️ File contents
-
-- `simple_to_do_list.py` - the to-do list application script.
-- `README.md` - this documentation.
-
 ## 💡 Learning Concepts
 
 ### 1. Lists as data structures
@@ -63,7 +58,3 @@ Use the menu options (1-4) to interact with your to-do list.
 
 - Initialisation, main loop, and exit.
 - Separation of concerns with menu display and action handling.
-
-## 📚 Notes
-
-This repository is part of basic Python practice projects. It demonstrates fundamental concepts like lists, loops, and conditionals in a practical, interactive application.

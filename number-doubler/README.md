@@ -21,10 +21,6 @@ This program demonstrates fundamental Python concepts including:
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.x installed on your system
-
 ### How to Run
 
 1. Navigate to the project directory:
@@ -62,12 +58,3 @@ This program teaches:
 - **Arithmetic Operations**: Using the multiplication operator to perform calculations
 - **Function Calls**: Calling functions and using their return values
 - **User Interaction**: Getting input and displaying output
-
-## 🔧 Possible Enhancements
-
-- Accept multiple numbers and double them all
-- Create additional math functions (triple, square, etc.)
-- Add input validation to ensure the user enters a valid number
-- Handle edge cases (zero, negative numbers)
-- Create a menu-driven interface for multiple operations
-- Store results in a list or file

@@ -32,7 +32,3 @@ This simple game demonstrates fundamental Python programming concepts:
 - **Conditional Logic**: Using `if-else` statements to make decisions
 - **Output**: Displaying messages to the user with `print()`
 - **Basic Program Flow**: How a simple Python script executes from top to bottom
-
-## 📋 Requirements
-
-- Python 3.x

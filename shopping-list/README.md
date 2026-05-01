@@ -20,10 +20,6 @@ This program demonstrates fundamental Python concepts including:
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.x installed on your system
-
 ### How to Run
 
 1. Navigate to the project directory:
@@ -60,11 +56,3 @@ This program teaches:
 - **Input/Output**: Using `input()` for user interaction and `print()` for display
 - **Loops**: Using `for` loops to iterate through list items
 - **String formatting**: Using separators and dashes for clean output
-
-## 🔧 Possible Enhancements
-
-- Allow users to enter any number of items (instead of just three)
-- Add functionality to remove items from the list
-- Save the shopping list to a file
-- Sort items alphabetically
-- Add quantities for each item

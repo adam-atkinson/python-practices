@@ -37,7 +37,3 @@ This game builds on basic concepts and introduces more advanced Python features:
 - **Counters**: Tracking the number of attempts
 - **Multiple Conditionals**: `if-elif-else` for different feedback messages
 - **User Experience**: Providing helpful hints and final statistics
-
-## 📋 Requirements
-
-- Python 3.x

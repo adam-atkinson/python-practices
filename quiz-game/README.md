@@ -37,7 +37,3 @@ This quiz game introduces several important Python programming concepts:
 - **Score Tracking**: Incrementing variables with `+=` operator
 - **Sequential Execution**: Running questions one after another
 - **Output Formatting**: Displaying results with `print()`
-
-## 📋 Requirements
-
-- Python 3.x

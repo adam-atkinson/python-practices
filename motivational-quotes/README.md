@@ -23,11 +23,6 @@ Or with Python 3 explicitly:
 python3 motivational_quotes.py
 ```
 
-## 🛠️ File contents
-
-- `motivational_quotes.py` - the script that selects and prints a random quote.
-- `README.md` - this documentation.
-
 ## 💡 Learning Concepts
 
 ### 1. Randomisation (`random` module)

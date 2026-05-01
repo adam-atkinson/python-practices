@@ -34,7 +34,3 @@ This password checker demonstrates several important Python string and logic con
 - **Password Security**: Basic principles of strong password requirements
 - **Feedback Messages**: Providing specific error messages for different failure cases
 - **Boolean Logic**: Combining conditions to determine password strength
-
-## 📋 Requirements
-
-- Python 3.x

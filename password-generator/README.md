@@ -25,11 +25,6 @@ python3 secure_password_generator.py
 
 Enter a number when prompted (e.g., 12 for a 12-character password).
 
-## 🛠️ File contents
-
-- `secure_password_generator.py` - the main script that generates secure passwords.
-- `README.md` - this documentation.
-
 ## 💡 Learning Concepts
 
 ### 1. Cryptographically secure randomness (`secrets` module)
@@ -64,7 +59,3 @@ Enter a number when prompted (e.g., 12 for a 12-character password).
 
 - Using `secrets` over `random` for cryptographic purposes.
 - Including diverse character types for stronger passwords.
-
-## 📚 Notes
-
-This repository is part of basic Python practice projects. It demonstrates secure coding practices and is suitable for beginners learning about randomness, security, and user interaction in Python.

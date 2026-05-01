@@ -12,10 +12,6 @@ This script defines two teams with member names and randomly selects one captain
 - Random captain selection
 - Simple console output
 
-## Requirements 📋
-
-- Python 3.x
-
 ## Usage
 
 1. Ensure you have Python installed.

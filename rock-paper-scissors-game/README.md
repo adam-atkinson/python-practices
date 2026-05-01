@@ -25,11 +25,6 @@ python3 rock_paper_scissors.py
 
 Enter your choice when prompted (rock, paper, or scissors).
 
-## 🛠️ File contents
-
-- `rock_paper_scissors.py` - the main game script.
-- `README.md` - this documentation.
-
 ## 💡 Learning Concepts
 
 ### 1. Randomness and lists (`random` module)
@@ -60,7 +55,3 @@ Enter your choice when prompted (rock, paper, or scissors).
 ### 6. Basic game loop structure
 
 - Single-round game with setup, input, processing, and output phases.
-
-## 📚 Notes
-
-This repository is part of basic Python practice projects. It demonstrates fundamental programming concepts like functions, conditionals, and user interaction in a fun, interactive way.

@@ -31,7 +31,7 @@ Every project is intentionally kept small and focused so that the logic can be e
 
 ## 📋 Requirements
 
-- Python 3.6 or higher
+- Python 3.0 or higher
 - No external packages required (uses only standard library)
 
 ## 🏃‍♂️ How to Run
