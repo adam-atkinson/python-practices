@@ -2,12 +2,10 @@
 # First Program
 # This is my very first program written in Python
 
-print("Hello, World!")
 
-name = "Adam"
-age = 34
-is_student = True 
+first_name = input("Please enter your first name: ")
+last_name = input("Please enter your last name: ")
+age = int(input("Please enter your age: ")) 
 
-print(name)
-print(age)
-print(is_student)
+print(f"Your full name is: {first_name} {last_name}")
+print(f"You are: {age} years old") 
