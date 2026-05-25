@@ -15,6 +15,7 @@ while True:
         try:
             user_length = int(input("Please enter desired password length: "))
             if user_length >= 8:                                                                             # Enforce a minimum password length of 8 characters for basic security
+                break 
             print("Password should be at least 8 characters for security.")
 
         except ValueError:                                                                                   # Catch ValueError just in case the user enters anything other than a whole number
