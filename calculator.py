@@ -31,16 +31,25 @@ while True:
     elif operator == "*":
         result = num1 * num2 
     elif operator == "/":
-        if num2 == 0:                                      # This checks to see if num2 is a zero then prints the error message as it is not logical to divide by zero
-            print("Error: You cannot divide by zero!")
-            result = None 
-        else:
-            result = num1 / num2 
-
+        while True:                                        # This while loop and try/except block check to see if the user enters a zero. If this is the case, the error message is displayed and the user is prompted to enter any number other than zero
+            try:
+                if num2 == 0:
+                    raise ZeroDivisionError
+                result = num1 / num2
+                break 
+            except ZeroDivisionError:
+                print("Error: You cannot divide by zero!")
+                while True:
+                    try:
+                        num2 = float(input("Please enter a number that is not zero: "))
+                        break 
+                    except ValueError:
+                        print("Invalid input! Please enter numbers only.")                                     
+            
     if result is not None:
         print(f"Result: {round(result, 3)}")               # Displays the result if valid
 
-    while True:                                            # Asks the user if the want to calculate again or quit
+    while True:                                            # Asks the user if they want to calculate again or quit
         choice = input("\nWould you like to perform another calculation or quit? (calculate/quit): ").strip().lower()
         if choice == "quit":
             print("Goodbye!")
